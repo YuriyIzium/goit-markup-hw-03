@@ -147,8 +147,6 @@ body {
 }
 
 /* CТУДИЯ */
-
-/* Main */
 /* Hero */
 
 .hero {
@@ -263,6 +261,7 @@ body {
 .work-block .item:not(:nth-child(3n)) {
   margin-right: 30px;
 }
+
 /* Наша Команда */
 
 .tim {
